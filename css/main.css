@@ -30,7 +30,7 @@ header {
   font-style: normal;
   font-weight: normal;
   padding: 1rem;
-  background-color: #259f95;
+  background-color: #1e7c74;
 }
 
 header strong,
@@ -137,7 +137,7 @@ figure img {
   border: 1px solid #259f95;
   border-radius: 6px;
   margin-bottom: 1.5rem;
-  background-color: #259f95;
+  background-color: #1e7c74;
 }
 
 figcaption {
@@ -159,5 +159,5 @@ footer {
   padding: 1rem;
   background-image: url("../images/anchors.svg");
   color: #fff;
-  background-color: #259f95;
+  background-color: #1e7c74;
 }
